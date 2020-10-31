@@ -5,8 +5,8 @@ import (
 
 	"github.com/gin-gonic/gin"
 	"github.com/google/uuid"
-	"github.com/muktevivk/go-gin-rest-api/src/model"
-	"github.com/muktevivk/go-gin-rest-api/src/repository"
+	"github.com/muktevivk/go-gin-rest-api/src/app/model"
+	"github.com/muktevivk/go-gin-rest-api/src/app/repository"
 	log "github.com/sirupsen/logrus"
 )
 

@@ -1,9 +1,9 @@
 package repository
 
 import (
-	"github.com/muktevivk/go-gin-rest-api/src/config"
+	"github.com/muktevivk/go-gin-rest-api/src/app/config"
 	log "github.com/sirupsen/logrus"
-	"github.com/muktevivk/go-gin-rest-api/src/model"
+	"github.com/muktevivk/go-gin-rest-api/src/app/model"
 )
 
 //GetTodoList from the DB based on the state
