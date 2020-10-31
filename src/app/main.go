@@ -1,9 +1,9 @@
 package main
 
 import (
-	"github.com/muktevivk/go-gin-rest-api/src/config"
+	"github.com/muktevivk/go-gin-rest-api/src/app/config"
 	"github.com/jinzhu/gorm"
-	"github.com/muktevivk/go-gin-rest-api/src/controller"
+	"github.com/muktevivk/go-gin-rest-api/src/app/controller"
 	"github.com/gin-gonic/gin"
 	log "github.com/sirupsen/logrus"
 	_ "github.com/go-sql-driver/mysql"
